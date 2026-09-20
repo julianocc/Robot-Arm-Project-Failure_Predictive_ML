@@ -14,7 +14,7 @@ This repository contains the implementation of a two-stage hybrid robotic fault 
 ## Getting Started
 
 ### 1. Download the Data
-Ensure the telemetry datasets are present in the `Data_Robotarm/` folder before running the notebook.
+➡️ **[Download Dataset from Kaggle]([https://www.kaggle.com/datasets/YOUR-KAGGLE-USERNAME/YOUR-DATASET-NAME](https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-anomaly-detection/code))**
 
 ### 2. Run the Notebook
 Open `Robotarm.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab to execute the diagnostic pipeline step-by-step:
